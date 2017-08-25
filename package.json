@@ -7,8 +7,8 @@
   "readmeFilename": "README.md",
   "main": "lib/poloniex",
   "dependencies": {
-    "nonce": "~1.0.3",
-    "request": "~2.33.0"
+    "isomorphic-fetch": "^2.2.1",
+    "nonce": "~1.0.3"
   },
   "devDependencies": {},
   "scripts": {},
